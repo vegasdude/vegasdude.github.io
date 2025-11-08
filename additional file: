@@ -1,0 +1,23 @@
+---
+
+## 🧭 How to Set Up
+
+1. Clone or create this repository on GitHub.  
+2. Add your HTML, CSS, and image files.  
+3. Go to **Settings → Pages**.  
+4. Under **Source**, select `main` branch and `/ (root)` folder.  
+5. Click **Save**, and your site will go live!
+
+---
+
+## 🛠 Customize
+You can:
+- Edit `index.html` to change your content.
+- Update `style.css` to redesign the page.
+- Add more pages like `about.html` or `projects.html`.
+
+---
+
+## ❤️ Credits
+Created by **Anthony Dudek**  
+Hosted freely using **[GitHub Pages](https://pages.github.com/)**.
